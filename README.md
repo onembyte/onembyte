@@ -19,18 +19,6 @@
 
 ### `> whoami`
 
-```csharp
-public sealed record Franco()
-{
-    public string   Role      => "Backend Developer";
-    public string   Location  => "Buenos Aires, AR → Remote";
-    public string[] Focus     => ["APIs", "Cloud infrastructure", "CI/CD"];
-    public string[] Fuel      => ["mate", "small commits", "my family"];
-
-    public string Philosophy  => "Ship it small. Ship it often. Keep it running.";
-}
-```
-
 I build backend systems that other people's products depend on — APIs, cloud
 infrastructure, and the pipelines that get them to production without drama.
 AWS certified, self-directed, and happiest when the deploy is boring.

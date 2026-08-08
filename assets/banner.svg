@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="franco michetti - backend developer - C#, .NET, AWS, SQL Server, CI/CD">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="franco michetti - backend developer">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#0B0E14"/>
@@ -35,13 +35,10 @@
 
     <!-- terminal body -->
     <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="21">
-      <text x="40" y="102" fill="#D93B34">$<tspan fill="#EDE4D3" dx="12">whoami</tspan></text>
-      <text x="40" y="136" fill="#5FD98A">franco michetti &#8212; backend developer</text>
+      <text x="40" y="140" fill="#D93B34">$<tspan fill="#EDE4D3" dx="12">whoami</tspan></text>
+      <text x="40" y="174" fill="#5FD98A">franco michetti &#8212; backend developer</text>
 
-      <text x="40" y="188" fill="#D93B34">$<tspan fill="#EDE4D3" dx="12">cat stack.txt</tspan></text>
-      <text x="40" y="222" fill="#5FD98A">C# &#183; .NET &#183; AWS &#183; SQL Server &#183; CI/CD</text>
-
-      <text x="40" y="274" fill="#D93B34">$<tspan fill="#EDE4D3" dx="12">./ship.sh --small --often</tspan><tspan fill="#EDE4D3" dx="10">&#9608;</tspan></text>
+      <text x="40" y="226" fill="#D93B34">$<tspan fill="#EDE4D3" dx="12">./ship.sh --small --often</tspan><tspan fill="#EDE4D3" dx="10">&#9608;</tspan></text>
     </g>
 
     <!-- 1MB mark -->
