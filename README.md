@@ -12,9 +12,6 @@
   <a href="https://www.linkedin.com/in/francomichetti/">
     <img src="https://img.shields.io/badge/LinkedIn-2F3745?style=for-the-badge&logoColor=EDE4D3" alt="LinkedIn" />
   </a>
-  <a href="mailto:francomichetti05@gmail.com">
-    <img src="https://img.shields.io/badge/Email-2F3745?style=for-the-badge&logo=gmail&logoColor=EDE4D3" alt="Email" />
-  </a>
 
 </div>
 
@@ -133,6 +130,6 @@ will outlive my attention span.
 ---
 
 <div align="center">
-  <sub><code>franco@1mb:~$</code> open to backend &amp; cloud work — <a href="mailto:francomichetti05@gmail.com">say hi</a>, I answer within 48h.</sub>
+  <sub><code>franco@1mb:~$</code> open to backend &amp; cloud work — francomichetti05@gmail.com, I answer within 48h.</sub>
 </div>
 
