@@ -5,14 +5,9 @@
 </div>
 
 <div align="center">
-
-  <a href="https://portfolio.francomichetti.com">
-    <img src="https://img.shields.io/badge/Portfolio-D93B34?style=for-the-badge&logo=googlechrome&logoColor=EDE4D3" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/francomichetti/">
-    <img src="https://img.shields.io/badge/LinkedIn-2F3745?style=for-the-badge&logoColor=EDE4D3" alt="LinkedIn" />
-  </a>
-
+  <a href="https://portfolio.francomichetti.com"><code>portfolio.francomichetti.com</code></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/francomichetti/"><code>linkedin.com/in/francomichetti</code></a>
 </div>
 
 ---
@@ -30,69 +25,23 @@ will outlive my attention span.
 
 ### `> cat stack.txt`
 
-**Languages**
-
-<p>
-  <img src="https://img.shields.io/badge/C%23-D93B34?style=flat-square&logoColor=EDE4D3" alt="C#" />
-  <img src="https://img.shields.io/badge/Python-D93B34?style=flat-square&logo=python&logoColor=EDE4D3" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-D93B34?style=flat-square&logo=typescript&logoColor=EDE4D3" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Java-D93B34?style=flat-square&logo=openjdk&logoColor=EDE4D3" alt="Java" />
-  <img src="https://img.shields.io/badge/Go-D93B34?style=flat-square&logo=go&logoColor=EDE4D3" alt="Go" />
-  <img src="https://img.shields.io/badge/Rust-D93B34?style=flat-square&logo=rust&logoColor=EDE4D3" alt="Rust" />
-</p>
-
-**Backend**
-
-<p>
-  <img src="https://img.shields.io/badge/.NET-2F3745?style=flat-square&logo=dotnet&logoColor=EDE4D3" alt=".NET" />
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-2F3745?style=flat-square&logo=dotnet&logoColor=EDE4D3" alt="ASP.NET Core" />
-  <img src="https://img.shields.io/badge/FastAPI-2F3745?style=flat-square&logo=fastapi&logoColor=EDE4D3" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-2F3745?style=flat-square&logo=springboot&logoColor=EDE4D3" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/REST%20APIs-2F3745?style=flat-square&logo=openapiinitiative&logoColor=EDE4D3" alt="REST APIs" />
-</p>
-
-**Frontend**
-
-<p>
-  <img src="https://img.shields.io/badge/React-2F3745?style=flat-square&logo=react&logoColor=EDE4D3" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-2F3745?style=flat-square&logo=nextdotjs&logoColor=EDE4D3" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-2F3745?style=flat-square&logo=tailwindcss&logoColor=EDE4D3" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Tauri-2F3745?style=flat-square&logo=tauri&logoColor=EDE4D3" alt="Tauri" />
-</p>
-
-**Cloud &amp; Infrastructure**
-
-<p>
-  <img src="https://img.shields.io/badge/AWS-2F3745?style=flat-square&logoColor=EDE4D3" alt="AWS" />
-  <img src="https://img.shields.io/badge/Cloudflare-2F3745?style=flat-square&logo=cloudflare&logoColor=EDE4D3" alt="Cloudflare" />
-  <img src="https://img.shields.io/badge/Docker-2F3745?style=flat-square&logo=docker&logoColor=EDE4D3" alt="Docker" />
-  <img src="https://img.shields.io/badge/Traefik-2F3745?style=flat-square&logo=traefikproxy&logoColor=EDE4D3" alt="Traefik" />
-  <img src="https://img.shields.io/badge/TrueNAS-2F3745?style=flat-square&logo=truenas&logoColor=EDE4D3" alt="TrueNAS" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2F3745?style=flat-square&logo=githubactions&logoColor=EDE4D3" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Linux-2F3745?style=flat-square&logo=linux&logoColor=EDE4D3" alt="Linux" />
-</p>
-
-**Data &amp; Tooling**
-
-<p>
-  <img src="https://img.shields.io/badge/SQL%20Server-2F3745?style=flat-square&logoColor=EDE4D3" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/PostgreSQL-2F3745?style=flat-square&logo=postgresql&logoColor=EDE4D3" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/SQLite-2F3745?style=flat-square&logo=sqlite&logoColor=EDE4D3" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Git-2F3745?style=flat-square&logo=git&logoColor=EDE4D3" alt="Git" />
-  <img src="https://img.shields.io/badge/Postman-2F3745?style=flat-square&logo=postman&logoColor=EDE4D3" alt="Postman" />
-  <img src="https://img.shields.io/badge/MQTT-2F3745?style=flat-square&logo=mqtt&logoColor=EDE4D3" alt="MQTT" />
-  <img src="https://img.shields.io/badge/Ollama-2F3745?style=flat-square&logo=ollama&logoColor=EDE4D3" alt="Ollama" />
-</p>
+```yaml
+languages:    C# · Python · TypeScript · Java · Go · Rust
+backend:      .NET · ASP.NET Core · FastAPI · Spring Boot · REST APIs
+frontend:     React · Next.js · Tailwind CSS · Tauri
+cloud_infra:  AWS · Cloudflare · Docker · Traefik · TrueNAS · GitHub Actions · Linux
+data_tools:   SQL Server · PostgreSQL · SQLite · Git · Postman · MQTT · Ollama
+```
 
 <br />
 
 ### `> ls certifications/`
 
-<p>
-  <img src="https://img.shields.io/badge/AWS%20Certified-Developer%20Associate-D93B34?style=flat-square&logoColor=EDE4D3&labelColor=2F3745" alt="AWS Certified Developer Associate" />
-  <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-D93B34?style=flat-square&logoColor=EDE4D3&labelColor=2F3745" alt="AWS Certified Cloud Practitioner" />
-  <img src="https://img.shields.io/badge/AWS-Accredited%20Technical%20Partner-D93B34?style=flat-square&logoColor=EDE4D3&labelColor=2F3745" alt="AWS Accredited Technical Partner" />
-</p>
+```
+-r--r--r--  aws-certified-developer-associate.pem
+-r--r--r--  aws-certified-cloud-practitioner.pem
+-r--r--r--  aws-accredited-technical-partner.pem
+```
 
 <br />
 
@@ -100,30 +49,11 @@ will outlive my attention span.
 
 <!-- Tip: keep this short. A short list of good work beats a long list of everything. -->
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/onembyte/alpheus">▸ alpheus</a></h4>
-      <p>The macOS storage pane, but honest — see what is actually eating your disk, drill into it, and fix it from the same window.</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-D93B34?style=flat-square&logo=typescript&logoColor=EDE4D3" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Tauri-2F3745?style=flat-square&logo=tauri&logoColor=EDE4D3" alt="Tauri" />
-        <img src="https://img.shields.io/badge/React-2F3745?style=flat-square&logo=react&logoColor=EDE4D3" alt="React" />
-      </p>
-    </td>
-  </tr>
-</table>
+<code>e52cc3d</code> <a href="https://github.com/onembyte/alpheus"><b>alpheus</b></a> — the macOS storage pane, but honest: see what is eating your disk, drill in, fix it · <code>TypeScript</code> <code>Tauri</code> <code>React</code>
 
-<!-- Template for the next featured repo (2 per <tr>). Paste inside the <tr> above and fill in.
-     Badge colors: one primary D93B34 badge per card for the headline tech, 2F3745 for the rest.
-     Verify any logo= slug exists in simple-icons first; a bad slug renders as a blank gap.
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/onembyte/REPO">▸ REPO</a></h4>
-      <p>One line on what it does and who it's for. Lead with the problem, not the stack.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Stack-2F3745?style=flat-square&logoColor=EDE4D3" alt="Stack" />
-      </p>
-    </td>
+<!-- Template for the next featured repo. Copy the line above:
+     real short SHA (gh api repos/onembyte/REPO/commits --jq '.[0].sha[0:7]'),
+     linked bold repo name, one problem-first line, inline-code tech chips.
 -->
 
 <br />
