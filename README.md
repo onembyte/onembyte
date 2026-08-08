@@ -42,20 +42,44 @@ will outlive my attention span.
 
 ### `> cat stack.txt`
 
-**Core**
+**Languages**
 
 <p>
   <img src="https://img.shields.io/badge/C%23-D93B34?style=flat-square&logoColor=EDE4D3" alt="C#" />
-  <img src="https://img.shields.io/badge/.NET-D93B34?style=flat-square&logo=dotnet&logoColor=EDE4D3" alt=".NET" />
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-D93B34?style=flat-square&logo=dotnet&logoColor=EDE4D3" alt="ASP.NET Core" />
-  <img src="https://img.shields.io/badge/REST%20APIs-D93B34?style=flat-square&logo=openapiinitiative&logoColor=EDE4D3" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Python-D93B34?style=flat-square&logo=python&logoColor=EDE4D3" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-D93B34?style=flat-square&logo=typescript&logoColor=EDE4D3" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Java-D93B34?style=flat-square&logo=openjdk&logoColor=EDE4D3" alt="Java" />
+  <img src="https://img.shields.io/badge/Go-D93B34?style=flat-square&logo=go&logoColor=EDE4D3" alt="Go" />
+  <img src="https://img.shields.io/badge/Rust-D93B34?style=flat-square&logo=rust&logoColor=EDE4D3" alt="Rust" />
+</p>
+
+**Backend**
+
+<p>
+  <img src="https://img.shields.io/badge/.NET-2F3745?style=flat-square&logo=dotnet&logoColor=EDE4D3" alt=".NET" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-2F3745?style=flat-square&logo=dotnet&logoColor=EDE4D3" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/FastAPI-2F3745?style=flat-square&logo=fastapi&logoColor=EDE4D3" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-2F3745?style=flat-square&logo=springboot&logoColor=EDE4D3" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/REST%20APIs-2F3745?style=flat-square&logo=openapiinitiative&logoColor=EDE4D3" alt="REST APIs" />
+</p>
+
+**Frontend**
+
+<p>
+  <img src="https://img.shields.io/badge/React-2F3745?style=flat-square&logo=react&logoColor=EDE4D3" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-2F3745?style=flat-square&logo=nextdotjs&logoColor=EDE4D3" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-2F3745?style=flat-square&logo=tailwindcss&logoColor=EDE4D3" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Tauri-2F3745?style=flat-square&logo=tauri&logoColor=EDE4D3" alt="Tauri" />
 </p>
 
 **Cloud &amp; Infrastructure**
 
 <p>
   <img src="https://img.shields.io/badge/AWS-2F3745?style=flat-square&logoColor=EDE4D3" alt="AWS" />
+  <img src="https://img.shields.io/badge/Cloudflare-2F3745?style=flat-square&logo=cloudflare&logoColor=EDE4D3" alt="Cloudflare" />
   <img src="https://img.shields.io/badge/Docker-2F3745?style=flat-square&logo=docker&logoColor=EDE4D3" alt="Docker" />
+  <img src="https://img.shields.io/badge/Traefik-2F3745?style=flat-square&logo=traefikproxy&logoColor=EDE4D3" alt="Traefik" />
+  <img src="https://img.shields.io/badge/TrueNAS-2F3745?style=flat-square&logo=truenas&logoColor=EDE4D3" alt="TrueNAS" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2F3745?style=flat-square&logo=githubactions&logoColor=EDE4D3" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Linux-2F3745?style=flat-square&logo=linux&logoColor=EDE4D3" alt="Linux" />
 </p>
@@ -64,8 +88,12 @@ will outlive my attention span.
 
 <p>
   <img src="https://img.shields.io/badge/SQL%20Server-2F3745?style=flat-square&logoColor=EDE4D3" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/PostgreSQL-2F3745?style=flat-square&logo=postgresql&logoColor=EDE4D3" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQLite-2F3745?style=flat-square&logo=sqlite&logoColor=EDE4D3" alt="SQLite" />
   <img src="https://img.shields.io/badge/Git-2F3745?style=flat-square&logo=git&logoColor=EDE4D3" alt="Git" />
   <img src="https://img.shields.io/badge/Postman-2F3745?style=flat-square&logo=postman&logoColor=EDE4D3" alt="Postman" />
+  <img src="https://img.shields.io/badge/MQTT-2F3745?style=flat-square&logo=mqtt&logoColor=EDE4D3" alt="MQTT" />
+  <img src="https://img.shields.io/badge/Ollama-2F3745?style=flat-square&logo=ollama&logoColor=EDE4D3" alt="Ollama" />
 </p>
 
 <br />
