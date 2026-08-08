@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="franco michetti - backend developer - C#, .NET, AWS, SQL Server, CI/CD">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B0E14"/>
+      <stop offset="55%" stop-color="#0E1219"/>
+      <stop offset="100%" stop-color="#140F11"/>
+    </linearGradient>
+
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#D93B34" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#D93B34" stop-opacity="0"/>
+    </radialGradient>
+
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="2" fill="#FFFFFF" opacity="0.022"/>
+    </pattern>
+
+    <clipPath id="round">
+      <rect x="0" y="0" width="1200" height="320" rx="16"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#round)">
+    <!-- backdrop -->
+    <rect width="1200" height="320" fill="url(#bg)"/>
+    <circle cx="1035" cy="165" r="230" fill="url(#glow)"/>
+
+    <!-- window title bar -->
+    <rect x="0" y="0" width="1200" height="46" fill="#11151F"/>
+    <line x1="0" y1="46" x2="1200" y2="46" stroke="#1F2430" stroke-width="2"/>
+    <circle cx="28" cy="23" r="6.5" fill="#D93B34"/>
+    <circle cx="52" cy="23" r="6.5" fill="#E0A32E"/>
+    <circle cx="76" cy="23" r="6.5" fill="#5FD98A"/>
+    <text x="104" y="29" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" fill="#7D8590">franco@1mb: ~/profile</text>
+
+    <!-- terminal body -->
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="21">
+      <text x="40" y="102" fill="#D93B34">$<tspan fill="#EDE4D3" dx="12">whoami</tspan></text>
+      <text x="40" y="136" fill="#5FD98A">franco michetti &#8212; backend developer</text>
+
+      <text x="40" y="188" fill="#D93B34">$<tspan fill="#EDE4D3" dx="12">cat stack.txt</tspan></text>
+      <text x="40" y="222" fill="#5FD98A">C# &#183; .NET &#183; AWS &#183; SQL Server &#183; CI/CD</text>
+
+      <text x="40" y="274" fill="#D93B34">$<tspan fill="#EDE4D3" dx="12">./ship.sh --small --often</tspan><tspan fill="#EDE4D3" dx="10">&#9608;</tspan></text>
+    </g>
+
+    <!-- 1MB mark -->
+    <g transform="translate(978,74)">
+      <rect x="0" y="0" width="172" height="172" rx="26" fill="#D93B34"/>
+      <rect x="0" y="0" width="172" height="172" rx="26" fill="none" stroke="#EDE4D3" stroke-opacity="0.25" stroke-width="2"/>
+
+      <!-- monitor -->
+      <rect x="26" y="26" width="120" height="86" rx="8" fill="#EDE4D3" stroke="#2A1012" stroke-width="4"/>
+      <rect x="40" y="39" width="92" height="52" rx="4" fill="#14181F"/>
+      <text x="86" y="73" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="24" font-weight="700" fill="#EDE4D3">1MB</text>
+      <rect x="40" y="97" width="20" height="6" rx="3" fill="#2A1012" opacity="0.55"/>
+
+      <!-- keyboard -->
+      <path d="M14 120 H158 L146 146 H26 Z" fill="#EDE4D3" stroke="#2A1012" stroke-width="4" stroke-linejoin="round"/>
+      <line x1="34" y1="128" x2="140" y2="128" stroke="#2A1012" stroke-width="3" opacity="0.45"/>
+      <line x1="31" y1="137" x2="143" y2="137" stroke="#2A1012" stroke-width="3" opacity="0.45"/>
+    </g>
+
+    <!-- CRT scanlines -->
+    <rect width="1200" height="320" fill="url(#scan)"/>
+    <rect x="1" y="1" width="1198" height="318" rx="15" fill="none" stroke="#1F2430" stroke-width="2"/>
+  </g>
+</svg>
