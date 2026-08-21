@@ -26,10 +26,10 @@ will outlive my attention span.
 ### `> cat stack.txt`
 
 ```yaml
-languages:    C# · Python · TypeScript · Java · Go · Rust · Swift
+languages:    C# · Python · TypeScript · Java · Go · Rust · Swift · Objective-C · YARA
 backend:      .NET · ASP.NET Core · FastAPI · Spring Boot · REST APIs
 frontend:     React · Next.js · Tailwind CSS · Tauri
-mobile:       Swift · iOS
+mobile:       Swift · SwiftUI · iOS · iPadOS · React Native
 cloud_infra:  AWS · Cloudflare · Docker · Traefik · TrueNAS · GitHub Actions · Linux
 data_tools:   SQL Server · PostgreSQL · SQLite · Git · Postman · MQTT · Ollama
 ```
