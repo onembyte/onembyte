@@ -10,6 +10,11 @@
   <a href="https://www.linkedin.com/in/francomichetti/"><code>linkedin.com/in/francomichetti</code></a>
 </div>
 
+<div align="center">
+  <br />
+  <a href="https://hub.xerj.org/contributors/onembyte"><img src="https://hub.xerj.org/contributors/onembyte/badge.svg" alt="XERJ Corpus Hub contributor" /></a>
+</div>
+
 ---
 
 ### `> whoami`
