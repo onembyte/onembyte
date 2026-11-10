@@ -82,6 +82,6 @@ data_tools:   SQL Server · PostgreSQL · SQLite · Git · Postman · MQTT · Ol
 ---
 
 <div align="center">
-  <sub><code>franco@1mb:~$</code> open to backend &amp; cloud work — francomichetti05@gmail.com, I answer within 48h.</sub>
+  <sub><code>franco@1mb:~$</code> open to backend &amp; cloud work — contact@francomichetti.com, I answer within 48h.</sub>
 </div>
 
